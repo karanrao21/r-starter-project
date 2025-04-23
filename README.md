@@ -1,2 +1,2 @@
-# r-starter-project
+# R Starter Project
 A started project for learning R
